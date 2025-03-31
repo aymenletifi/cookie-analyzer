@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# ktlint cache
+.ktlint-cache/
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
